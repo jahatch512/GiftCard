@@ -1,0 +1,6 @@
+Things I would do with more time:
+
+1. add CSS/styling
+2. use JSON.stringify and JSON.parse to package the users and codes into local storage
+   (which only holds strings) so that I could add new users and keep track of credit in
+   a persistent manner.
